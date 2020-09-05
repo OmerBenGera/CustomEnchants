@@ -1,0 +1,7 @@
+main: me.jwhz.customenchant.CustomEnchants
+name: CustomEnchants
+version: 0.1
+author: JakeDev
+commands:
+  customenchants:
+    aliases: [ce, custome, cenchants, cenchant, customenchant]
